@@ -17,8 +17,8 @@ let buttonMessage= {
 'title': 'Mau Sc Yang Lain?,Cek Aja Channel Yt Nya',
 'body': me,
 'thumbnail': thumb2,
-'sourceUrl': 'https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg'}},
-'caption': 'http://github.com/Warikrr/rull',
+'sourceUrl': 'https://bit.ly/3c0WJz9'}},
+'caption': 'https://bit.ly/3c0WJz9',
 'footer': me,
 'buttons':[
 {'buttonId': _p + 'menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
