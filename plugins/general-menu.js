@@ -116,9 +116,9 @@ body: me,
 sourceUrl: 'http://s.id/0x404', thumbnail: await( await conn.getFile(ppl)).data
 */
 
-    await m.reply('_Ｌｏａｄｉｎｇ．．．_')
+    await m.reply('_L o a d i n g  M i k a z u - M D  By A S Y R A F  6 Y O U U _')
 // Gif button
- conn.sendMessage(m.chat, { video: { url: vid }, gifPlayback: true, gifAttribution: ~~(Math.random() * 2), caption: text.trim(), footer: me , templateButtons: [{ quickReplyButton: { displayText: 'Speedtest', id: `${_p}ping` }}, { quickReplyButton: { displayText: 'Owner', id: `${_p}owner` }} ] })
+ conn.sendMessage(m.chat, { video: { url: vid }, gifPlayback: true, gifAttribution: ~~(Math.random() * 2), caption: text.trim(), footer: me , templateButtons: [{ quickReplyButton: { displayText: 'Speed🏃🏻 Mikazu🤖', id: `${_p}ping` }}, { quickReplyButton: { displayText: 'Owner👦🏻 Ganz😎', id: `${_p}owner` }} ] })
   } catch (e) {
     m.reply('An error occurred')
     m.reply(e)
